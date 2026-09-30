@@ -6,8 +6,6 @@ Junior Java developer
 
 Here I will share my work and show my journey in Java development.
 
-Currently, I have the following skills: Java core basics, OOP, MySQL database queries, working with Git repositories, HTML and CSS tagging, experience writing basic algorithms in Python and C++.
-
 ### Skills
 
 <p align="left">
